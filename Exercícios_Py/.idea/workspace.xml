@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f598d0ad-754f-4e17-9bdd-df342fa246b8" name="Changes" comment="Exercício 3">
-      <change beforePath="$PROJECT_DIR$/../Curso_em_video" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Py_Exercícios/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Py_Exercícios/.idea/Py_Exercícios.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Py_Exercícios/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Py_Exercícios/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Py_Exercícios/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Py_Exercícios/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Py_Exercícios/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Py_Exercícios/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Py_Exercícios/ex_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Py_Exercícios/main.py" beforeDir="false" />
-    </list>
+    <list default="true" id="f598d0ad-754f-4e17-9bdd-df342fa246b8" name="Changes" comment="Exercício 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,6 +184,32 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercícios 1 e 2" />

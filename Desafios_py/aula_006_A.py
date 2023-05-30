@@ -1,3 +1,5 @@
+#  Demonstração de aula
+
 b1 = str(input('Digite um número: '))
 b2 = str(input('Digite mais um número: '))
 

@@ -1,3 +1,5 @@
+#  Mostrar Mensagem na tela
+
 a1 = input('Dia: ')
 a2 = input('Mês: ')
 a3 = input('Ano: ')

@@ -1,3 +1,5 @@
+#  Verificações do tipo str
+
 a1 = str(input('Digite algo: '))
 
 print(f'A classe é: {type(a1)}\nContém apenas número: {a1.isnumeric()}\nContém apenas letras: {a1.isalpha()}\n'
