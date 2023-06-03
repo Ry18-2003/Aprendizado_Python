@@ -6,7 +6,7 @@ from pygame import init, mixer_music, quit
 init()
 
 # Carrega o arquivo MP3
-mixer_music.load("C:/Users/Richard/Music/zelda.mp3")
+mixer_music.load("Others/summer.mp3")
 
 # Reproduz o arquivo MP3
 mixer_music.play(loops=0, start=0.0)
