@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55681d23-1052-4475-86c4-38428eee1d37" name="Changes" comment="Conclusão dos desafios até o 19 e dos exercícios até o 21.">
-      <change afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="55681d23-1052-4475-86c4-38428eee1d37" name="Changes" comment="Conclusão exercícios, 22 até 27." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685752582675</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Conclusão exercícios, 22 até 27.">
+      <created>1685932677840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685932677854</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +192,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Conclusão dos desafios até o 19 e dos exercícios até o 21." />
-    <option name="LAST_COMMIT_MESSAGE" value="Conclusão dos desafios até o 19 e dos exercícios até o 21." />
+    <MESSAGE value="Conclusão exercícios, 22 até 27." />
+    <option name="LAST_COMMIT_MESSAGE" value="Conclusão exercícios, 22 até 27." />
   </component>
 </project>
