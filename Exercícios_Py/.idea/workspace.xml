@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55681d23-1052-4475-86c4-38428eee1d37" name="Changes" comment="Conclusão exercícios, 22 até 27." />
+    <list default="true" id="55681d23-1052-4475-86c4-38428eee1d37" name="Changes" comment="Conclusão exercícios, 22 até 27.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +40,8 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ex027">
-    <configuration name="ex023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex021">
+    <configuration name="ex021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercícios_Py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex023.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex021" />
         <item itemvalue="Python.ex027" />
         <item itemvalue="Python.ex026" />
         <item itemvalue="Python.ex025" />
         <item itemvalue="Python.ex024" />
-        <item itemvalue="Python.ex023" />
       </list>
     </recent_temporary>
   </component>

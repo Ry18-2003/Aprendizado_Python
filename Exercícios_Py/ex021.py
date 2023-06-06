@@ -9,10 +9,11 @@ init()
 mixer_music.load('Others/woods.mp3')
 
 # Inicia a música indicada
-mixer_music.play(start=0.0)
+mixer_music.play(start=120.0)
 
 # Faz o programa continuar rodando enquanto estiver tocando musica
-event.wait()
+while mixer_music.get_busy():
+    continue
 
 # Finaliza o pygame
 quit()
