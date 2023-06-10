@@ -1,6 +1,6 @@
 # Programa para executar um mp3
 
-from pygame import init, mixer_music, quit, event
+from pygame import init, mixer_music, quit
 
 # Inicia o pygame
 init()
