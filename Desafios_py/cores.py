@@ -1,0 +1,25 @@
+# RESET
+reset = "\033[m"
+# TEXTO[
+letra_branco = "\033[30m"
+letra_vermelho = "\033[31m"
+letra_verde = "\033[32m"
+letra_amarelo = "\033[33m"
+letra_azul = "\033[34m"
+letra_roxo = "\033[35m"
+letra_ciano = "\033[36m"
+letra_cinza = "\033[37m"
+# FUNDO
+fundo_branco = "\033[40m"
+fundo_vermelho = "\033[41m"
+fundo_verde = "\033[42m"
+fundo_amarelo = "\033[43m"
+fundo_azul = "\033[44m"
+fundo_roxo = "\033[45m"
+fundo_ciano = "\033[46m"
+fundo_cinza = "\033[47m"
+# ESTILO
+vazio = "\033[0m"
+negrito = "\033[1m"
+sublinhado = "\033[4m"
+inverso = "\033[7m"

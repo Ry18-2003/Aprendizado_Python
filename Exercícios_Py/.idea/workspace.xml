@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55681d23-1052-4475-86c4-38428eee1d37" name="Changes" comment="Correção ex021.py">
-      <change afterPath="$PROJECT_DIR$/cores.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
-    </list>
+    <list default="true" id="55681d23-1052-4475-86c4-38428eee1d37" name="Changes" comment="Arquivo para adição de cores ao terminal dos programas." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686076900165</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Arquivo para adição de cores ao terminal dos programas.">
+      <created>1686404025083</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686404025083</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Arquivo para adição de cores ao terminal dos programas.">
+      <created>1686404056180</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686404056180</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +220,7 @@
     <MESSAGE value="Conclusão dos desafios até o 19 e dos exercícios até o 21." />
     <MESSAGE value="Conclusão exercícios, 22 até 27." />
     <MESSAGE value="Correção ex021.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correção ex021.py" />
+    <MESSAGE value="Arquivo para adição de cores ao terminal dos programas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Arquivo para adição de cores ao terminal dos programas." />
   </component>
 </project>
