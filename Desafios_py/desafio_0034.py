@@ -14,4 +14,4 @@ a3 = int(input("Enquantos anos pretende financiar: "))
 if a1 / (a3 * 12) > a2 * 0.3:
     print(f'{titulo}Financiamento negado. {cores.reset}Tenha um bom dia.')
 else:
-    print(f'{cores.letra_verde}Seu financimento foi aprovado. {cores.reset}Tenha um bom dia.')
+    print(f'{cores.letra_verde}Seu financimento foi aprovado. {cores.reset}Tenha um bom dia.')      
