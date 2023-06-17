@@ -1,3 +1,5 @@
+# Converção Binario hexa e octal
+
 from cores import letra_amarelo, letra_azul, letra_vermelho, reset
 
 amarelo = letra_amarelo

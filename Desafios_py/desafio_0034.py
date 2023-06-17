@@ -1,4 +1,5 @@
-# Financiamento de casa
+# Financiamento de casa.
+
 import cores
 
 titulo = cores.letra_vermelho

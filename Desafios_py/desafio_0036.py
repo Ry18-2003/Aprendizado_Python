@@ -1,4 +1,4 @@
-# Ler dois valores e falar qual o maior
+# Ler dois valores e falar qual o maior.   
 
 a1 = float(input('Digite um valor: '))
 a2 = float(input('Digite um segundo valor: '))
